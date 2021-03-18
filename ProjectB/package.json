@@ -1,0 +1,9 @@
+{
+  "name": "project-b",
+  "version": "0.0.0",
+  "description": "ProjectB",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
