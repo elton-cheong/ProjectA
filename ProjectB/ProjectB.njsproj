@@ -32,6 +32,9 @@
     <Content Include="Index.html">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Index2.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
